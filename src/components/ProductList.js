@@ -25,7 +25,7 @@ class ProductList extends Component {
           <div className="line-break" />
           <h2>3d viewer</h2>
           <div id="holoscope-3d-viewer">
-            <iframe className="three-viewer" sandbox="allow-scripts allow-same-origin allow-popups" src="http://localhost:3000/embed/5b7543dc2b6e101214785fbd" ></iframe>
+            <iframe className="three-viewer" sandbox="allow-scripts allow-same-origin allow-popups" src="https://holoscope.io/embed/5b7543dc2b6e101214785fbd" ></iframe>
           </div>
           <br/>
         </div>

@@ -2,8 +2,10 @@
   "name": "breeed.com",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://maartenbreeedveld.github.io/breeed.com",
   "dependencies": {
     "axios": "^0.18.0",
+    "gh-pages": "^2.0.1",
     "prop-types": "^15.7.2",
     "qs": "^6.6.0",
     "react": "^16.8.4",
@@ -14,6 +16,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
