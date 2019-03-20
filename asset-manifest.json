@@ -1,14 +1,14 @@
 {
-  "main.css": "/MaartenBreeedveld/breeed.com/static/css/main.b3c71ec4.chunk.css",
-  "main.js": "/MaartenBreeedveld/breeed.com/static/js/main.78c84ab5.chunk.js",
-  "main.js.map": "/MaartenBreeedveld/breeed.com/static/js/main.78c84ab5.chunk.js.map",
-  "runtime~main.js": "/MaartenBreeedveld/breeed.com/static/js/runtime~main.bdd8b0e4.js",
-  "runtime~main.js.map": "/MaartenBreeedveld/breeed.com/static/js/runtime~main.bdd8b0e4.js.map",
-  "static/js/2.0ee0d8c1.chunk.js": "/MaartenBreeedveld/breeed.com/static/js/2.0ee0d8c1.chunk.js",
-  "static/js/2.0ee0d8c1.chunk.js.map": "/MaartenBreeedveld/breeed.com/static/js/2.0ee0d8c1.chunk.js.map",
-  "index.html": "/MaartenBreeedveld/breeed.com/index.html",
-  "precache-manifest.7c1d922c2129e75d54fbc5be895349fa.js": "/MaartenBreeedveld/breeed.com/precache-manifest.7c1d922c2129e75d54fbc5be895349fa.js",
-  "service-worker.js": "/MaartenBreeedveld/breeed.com/service-worker.js",
-  "static/css/main.b3c71ec4.chunk.css.map": "/MaartenBreeedveld/breeed.com/static/css/main.b3c71ec4.chunk.css.map",
-  "static/media/kast_img.jpg": "/MaartenBreeedveld/breeed.com/static/media/kast_img.dfdeac7b.jpg"
+  "main.css": "/breeed.com/static/css/main.b3c71ec4.chunk.css",
+  "main.js": "/breeed.com/static/js/main.8abc28a1.chunk.js",
+  "main.js.map": "/breeed.com/static/js/main.8abc28a1.chunk.js.map",
+  "runtime~main.js": "/breeed.com/static/js/runtime~main.333a5f92.js",
+  "runtime~main.js.map": "/breeed.com/static/js/runtime~main.333a5f92.js.map",
+  "static/js/2.0ee0d8c1.chunk.js": "/breeed.com/static/js/2.0ee0d8c1.chunk.js",
+  "static/js/2.0ee0d8c1.chunk.js.map": "/breeed.com/static/js/2.0ee0d8c1.chunk.js.map",
+  "index.html": "/breeed.com/index.html",
+  "precache-manifest.d32989e3cb877cbdcbd0cd3daefe881e.js": "/breeed.com/precache-manifest.d32989e3cb877cbdcbd0cd3daefe881e.js",
+  "service-worker.js": "/breeed.com/service-worker.js",
+  "static/css/main.b3c71ec4.chunk.css.map": "/breeed.com/static/css/main.b3c71ec4.chunk.css.map",
+  "static/media/kast_img.jpg": "/breeed.com/static/media/kast_img.dfdeac7b.jpg"
 }
