@@ -10,12 +10,13 @@ class App extends Component {
     return (
       <div className="App">
         <Header />
-        <Router >
-          <div className="container">
+        <div className="container">
+          <Home />
+        </div>
+        {/* <Router >
             <Route path="/" exact component={Home} />
             <Route path="/products" component={Products} />
-          </div>
-        </Router>
+        </Router> */}
       </div>
     );
   }
