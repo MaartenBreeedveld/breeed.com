@@ -1,0 +1,48 @@
+header {
+  background-color: #111;
+}
+
+.title {
+  font-family: 'Galada', cursive;
+    font-size: 40px;
+  color: white;
+  margin: 0px auto;
+
+}
+
+.title-small {
+  font-family: 'Galada', cursive;
+  font-size: 40px;
+  color: white;
+  margin: 0px auto;
+
+}
+
+.hamburger-menu {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.navigation {
+  display: flex;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .title {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) {
+  .hamburger-menu {
+    display: none;
+  }
+  .title-small {
+    display: none;
+  }
+
+}
+
