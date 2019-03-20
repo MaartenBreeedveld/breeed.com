@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "maartenbreeedveld.github.io/breeed.com/precache-manifest.be26a6d612ae1356fed46a847edd44c1.js"
+  "/MaartenBreeedveld/breeed.com/precache-manifest.7c1d922c2129e75d54fbc5be895349fa.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("maartenbreeedveld.github.io/breeed.com/index.html", {
+workbox.routing.registerNavigationRoute("/MaartenBreeedveld/breeed.com/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
